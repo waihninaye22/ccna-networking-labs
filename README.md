@@ -12,6 +12,7 @@ This repository contains my hands-on networking labs and learning progress while
 | Day                              | Topic           |
 | -------------------------------- | --------------- |
 | [Day 1](day-01-network-devices/) | Network Devices |
+| [Day 2](day-02-connecting-devices/) | Connecting Devices|
 
 ## Learning Goals
 
